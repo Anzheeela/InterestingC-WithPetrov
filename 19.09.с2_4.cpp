@@ -1,0 +1,1 @@
+int accumulate(IntConstRange range)
